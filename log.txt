@@ -2,3 +2,4 @@
 0770. ♻️ chore: rename env.example
 0935. 📚 docs: update README with setup steps
 0173. 🚀 perf: cache repeated calculations
+0557. 🔧 refactor: clean up auth middleware
