@@ -207,3 +207,4 @@
 0085. ✨ feat: support email verification
 0896. 🚀 perf: reduce image load time
 0892. ✅ test: add unit test for quiz service
+0196. ♻️ chore: bump dependencies
