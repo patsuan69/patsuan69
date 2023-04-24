@@ -21,3 +21,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0508. ✅ test: add unit test for quiz service
 0362. 📚 docs: add API usage examples
+0683. ✅ test: mock database connection in test suite
