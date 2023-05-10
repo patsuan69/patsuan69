@@ -25,3 +25,4 @@
 0911. ✅ test: increase coverage on auth module
 0351. ✨ feat: add export to CSV option
 0675. 🔧 refactor: organize models into subfolders
+0918. ✨ feat: enable dark mode toggle
