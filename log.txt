@@ -231,3 +231,4 @@
 0460. 📚 docs: write FAQ section
 0033. 🎨 style: apply consistent indentation
 0542. 🔧 refactor: organize models into subfolders
+0794. ♻️ chore: clean up unused files
