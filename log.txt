@@ -239,3 +239,4 @@
 0366. 🔧 refactor: remove redundant code blocks
 0549. ✨ feat: enable dark mode toggle
 0140. 🐛 fix: handle 500 error in quiz API
+0503. ♻️ chore: rename env.example
