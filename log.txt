@@ -245,3 +245,4 @@
 0770. ♻️ chore: rename env.example
 0506. 🐛 fix: handle 500 error in quiz API
 0247. 🎨 style: apply consistent indentation
+0296. 🔧 refactor: organize models into subfolders
