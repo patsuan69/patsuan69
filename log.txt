@@ -40,3 +40,4 @@
 0335. ♻️ chore: update .gitignore
 0159. 🚀 perf: lazy-load components
 0798. 🚀 perf: reduce image load time
+0944. ✨ feat: add user authentication
