@@ -42,3 +42,4 @@
 0798. 🚀 perf: reduce image load time
 0944. ✨ feat: add user authentication
 0297. 🎨 style: remove trailing whitespace
+0667. ✨ feat: add export to CSV option
