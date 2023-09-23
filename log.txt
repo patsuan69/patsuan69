@@ -51,3 +51,4 @@
 0797. 📚 docs: add API usage examples
 0697. ♻️ chore: bump dependencies
 0550. 🔧 refactor: split large controller into smaller functions
+0195. 📚 docs: clarify environment setup
