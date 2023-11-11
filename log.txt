@@ -272,3 +272,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0015. ✨ feat: implement quiz timer feature
 0280. ✅ test: add integration test for /submit endpoint
+0253. 📚 docs: update README with setup steps
