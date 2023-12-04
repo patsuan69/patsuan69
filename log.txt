@@ -276,3 +276,4 @@
 0561. 📚 docs: write FAQ section
 0777. 📚 docs: document token refresh logic
 0798. 🚀 perf: reduce image load time
+0349. ✅ test: increase coverage on auth module
