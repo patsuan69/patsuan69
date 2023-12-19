@@ -70,3 +70,4 @@
 0892. ✅ test: add unit test for quiz service
 0715. ✨ feat: create admin dashboard
 0756. ✨ feat: support email verification
+0823. ✨ feat: add user authentication
