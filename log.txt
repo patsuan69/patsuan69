@@ -73,3 +73,4 @@
 0823. ✨ feat: add user authentication
 0877. 🚀 perf: optimize database query for quiz results
 0778. 📚 docs: write FAQ section
+0730. ✅ test: test user registration edge cases
