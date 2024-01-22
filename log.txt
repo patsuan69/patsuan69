@@ -76,3 +76,4 @@
 0730. ✅ test: test user registration edge cases
 0583. ✅ test: increase coverage on auth module
 0277. 🎨 style: standardize quote style
+0548. 📚 docs: write FAQ section
