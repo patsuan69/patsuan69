@@ -297,3 +297,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0413. ✅ test: add integration test for /submit endpoint
 0399. ✅ test: mock database connection in test suite
+0519. 📚 docs: document token refresh logic
