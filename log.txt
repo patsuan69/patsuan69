@@ -84,3 +84,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0649. 📚 docs: update README with setup steps
 0495. 🔧 refactor: remove redundant code blocks
+0529. 📚 docs: write FAQ section
