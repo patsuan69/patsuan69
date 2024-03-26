@@ -85,3 +85,4 @@
 0649. 📚 docs: update README with setup steps
 0495. 🔧 refactor: remove redundant code blocks
 0529. 📚 docs: write FAQ section
+0540. ♻️ chore: add GitHub actions badge
