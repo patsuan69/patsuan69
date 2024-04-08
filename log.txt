@@ -87,3 +87,4 @@
 0529. 📚 docs: write FAQ section
 0540. ♻️ chore: add GitHub actions badge
 0723. 🔧 refactor: remove redundant code blocks
+0964. ♻️ chore: clean up unused files
