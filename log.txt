@@ -88,3 +88,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0723. 🔧 refactor: remove redundant code blocks
 0964. ♻️ chore: clean up unused files
+0578. ✅ test: add integration test for /submit endpoint
