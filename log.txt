@@ -310,3 +310,4 @@
 0930. 🎨 style: apply consistent indentation
 0281. ✨ feat: support email verification
 0100. ♻️ chore: update .gitignore
+0064. 📚 docs: clarify environment setup
