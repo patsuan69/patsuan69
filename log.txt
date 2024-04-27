@@ -92,3 +92,4 @@
 0646. ✅ test: test user registration edge cases
 0541. 🐛 fix: correct typo in registration form
 0265. 🎨 style: reformat files with black
+0316. 🐛 fix: fix broken CSS in mobile view
