@@ -99,3 +99,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0317. ✅ test: test user registration edge cases
 0505. ♻️ chore: add GitHub actions badge
+0229. 🚀 perf: optimize database query for quiz results
