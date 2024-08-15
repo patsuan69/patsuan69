@@ -113,3 +113,4 @@
 0689. 🎨 style: reformat files with black
 0975. 🎨 style: apply consistent indentation
 0170. ✅ test: increase coverage on auth module
+0103. 🔧 refactor: remove redundant code blocks
