@@ -119,3 +119,4 @@
 0910. 🎨 style: remove trailing whitespace
 0640. ♻️ chore: bump dependencies
 0596. ♻️ chore: update .gitignore
+0771. 🚀 perf: cache repeated calculations
