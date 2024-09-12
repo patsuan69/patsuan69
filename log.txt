@@ -120,3 +120,4 @@
 0640. ♻️ chore: bump dependencies
 0596. ♻️ chore: update .gitignore
 0771. 🚀 perf: cache repeated calculations
+0937. 🐛 fix: handle 500 error in quiz API
