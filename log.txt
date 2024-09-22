@@ -124,3 +124,4 @@
 0765. ♻️ chore: clean up unused files
 0602. 🔧 refactor: remove redundant code blocks
 0973. 🔧 refactor: organize models into subfolders
+0942. ✅ test: increase coverage on auth module
