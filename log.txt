@@ -126,3 +126,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0942. ✅ test: increase coverage on auth module
 0997. ✅ test: increase coverage on auth module
+0894. ✅ test: add integration test for /submit endpoint
