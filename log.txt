@@ -128,3 +128,4 @@
 0997. ✅ test: increase coverage on auth module
 0894. ✅ test: add integration test for /submit endpoint
 0679. ♻️ chore: bump dependencies
+0636. ✅ test: increase coverage on auth module
