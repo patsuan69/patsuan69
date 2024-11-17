@@ -338,3 +338,4 @@
 0190. 🎨 style: rename variables for clarity
 0846. ✨ feat: implement quiz timer feature
 0153. ♻️ chore: rename env.example
+0374. 🎨 style: standardize quote style
