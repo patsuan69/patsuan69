@@ -130,3 +130,4 @@
 0679. ♻️ chore: bump dependencies
 0636. ✅ test: increase coverage on auth module
 0914. ✅ test: test user registration edge cases
+0784. ♻️ chore: clean up unused files
