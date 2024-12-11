@@ -138,3 +138,4 @@
 0963. 🚀 perf: reduce image load time
 0406. ✨ feat: add export to CSV option
 0105. 🐛 fix: correct typo in registration form
+0804. ♻️ chore: add GitHub actions badge
