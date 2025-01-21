@@ -143,3 +143,4 @@
 0044. ✅ test: add unit test for quiz service
 0380. 🐛 fix: fix null pointer exception on login
 0958. 🐛 fix: prevent crash on empty input
+0986. 📚 docs: document token refresh logic
