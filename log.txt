@@ -144,3 +144,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0958. 🐛 fix: prevent crash on empty input
 0986. 📚 docs: document token refresh logic
+0042. 📚 docs: document token refresh logic
