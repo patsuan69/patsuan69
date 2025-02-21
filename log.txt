@@ -357,3 +357,4 @@
 0265. 🎨 style: reformat files with black
 0376. 🎨 style: apply consistent indentation
 0205. 📚 docs: update README with setup steps
+0941. 🚀 perf: cache repeated calculations
