@@ -149,3 +149,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0490. ✨ feat: create admin dashboard
 0290. ✅ test: test user registration edge cases
+0855. 🎨 style: reformat files with black
