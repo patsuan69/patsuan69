@@ -362,3 +362,4 @@
 0053. ✅ test: increase coverage on auth module
 0682. ♻️ chore: rename env.example
 0783. 🐛 fix: handle 500 error in quiz API
+0168. ✅ test: add integration test for /submit endpoint
