@@ -153,3 +153,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0671. 🐛 fix: fix null pointer exception on login
 0076. 🎨 style: reformat files with black
+0396. 🔧 refactor: split large controller into smaller functions
