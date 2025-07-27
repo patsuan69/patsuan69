@@ -384,3 +384,4 @@
 0027. 📚 docs: clarify environment setup
 0858. ♻️ chore: clean up unused files
 0586. 🎨 style: remove trailing whitespace
+0317. ✅ test: test user registration edge cases
