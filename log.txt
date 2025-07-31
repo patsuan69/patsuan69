@@ -173,3 +173,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0847. ♻️ chore: clean up unused files
 0622. 🎨 style: apply consistent indentation
+0053. ✅ test: increase coverage on auth module
