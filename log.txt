@@ -174,3 +174,4 @@
 0847. ♻️ chore: clean up unused files
 0622. 🎨 style: apply consistent indentation
 0053. ✅ test: increase coverage on auth module
+0744. 🔧 refactor: remove redundant code blocks
