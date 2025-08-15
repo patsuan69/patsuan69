@@ -387,3 +387,4 @@
 0317. ✅ test: test user registration edge cases
 0250. 📚 docs: update README with setup steps
 0323. 📚 docs: clarify environment setup
+0334. 🚀 perf: cache repeated calculations
