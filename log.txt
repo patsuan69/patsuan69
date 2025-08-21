@@ -176,3 +176,4 @@
 0053. ✅ test: increase coverage on auth module
 0744. 🔧 refactor: remove redundant code blocks
 0344. ♻️ chore: add GitHub actions badge
+0631. ✨ feat: create admin dashboard
