@@ -388,3 +388,4 @@
 0250. 📚 docs: update README with setup steps
 0323. 📚 docs: clarify environment setup
 0334. 🚀 perf: cache repeated calculations
+0373. 📚 docs: document token refresh logic
