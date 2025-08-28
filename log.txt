@@ -178,3 +178,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0631. ✨ feat: create admin dashboard
 0865. ♻️ chore: add GitHub actions badge
+0526. ✨ feat: add user authentication
