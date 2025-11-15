@@ -191,3 +191,4 @@
 0465. 🎨 style: rename variables for clarity
 0738. 🐛 fix: prevent crash on empty input
 0651. ✨ feat: enable dark mode toggle
+0409. 🚀 perf: lazy-load components
