@@ -197,3 +197,4 @@
 0939. 📚 docs: update README with setup steps
 0687. 🎨 style: remove trailing whitespace
 0916. ♻️ chore: bump dependencies
+0459. 🔧 refactor: organize models into subfolders
